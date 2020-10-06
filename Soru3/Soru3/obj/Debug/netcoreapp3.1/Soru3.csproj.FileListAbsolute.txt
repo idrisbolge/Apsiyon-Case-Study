@@ -1,0 +1,15 @@
+C:\Users\idris\Desktop\Soru3\Soru3\bin\Debug\netcoreapp3.1\Soru3.exe
+C:\Users\idris\Desktop\Soru3\Soru3\bin\Debug\netcoreapp3.1\Soru3.deps.json
+C:\Users\idris\Desktop\Soru3\Soru3\bin\Debug\netcoreapp3.1\Soru3.runtimeconfig.json
+C:\Users\idris\Desktop\Soru3\Soru3\bin\Debug\netcoreapp3.1\Soru3.runtimeconfig.dev.json
+C:\Users\idris\Desktop\Soru3\Soru3\bin\Debug\netcoreapp3.1\Soru3.dll
+C:\Users\idris\Desktop\Soru3\Soru3\bin\Debug\netcoreapp3.1\Soru3.pdb
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.csprojAssemblyReference.cache
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.Form1.resources
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.csproj.GenerateResource.cache
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.AssemblyInfoInputs.cache
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.AssemblyInfo.cs
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.csproj.CoreCompileInputs.cache
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.dll
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.pdb
+C:\Users\idris\Desktop\Soru3\Soru3\obj\Debug\netcoreapp3.1\Soru3.genruntimeconfig.cache
